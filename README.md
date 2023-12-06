@@ -4,9 +4,9 @@ Los Angeles, CA 
 
 # Experience
 
-## Openpath, Culver City, CA.	September 2020 to present
+## Motorola/Avigilon (formerly Openpath Security, Inc.), Culver City, CA.	September 2020 to present
 
-Senior Firmware Engineer
+Senior Staff Firmware Engineer
 
 I've moved firmware development at Openpath in a new, higher-quality, better-performing direction. Specifically, I:
 1. Introduced code reviews (pull requests), code review checklist.
@@ -20,7 +20,7 @@ I've moved firmware development at Openpath in a new, higher-quality, better-per
 9. Implemented Memfault remote debugging -- immediately finding three bugs causing constant reboots in the field.
 10. Merged several projects improving code re-use, driver development time, and board bring-up time, as well as adding test features for Electrical Engineers. I did this without introducing bugs to the firmware.
 11. Supported project planning and issue-tracking for firmware.
-12. Coached teammates on test-driven development, unit testing, object-oriented development in C, clean coding and guided him away from devastating total rewrites to a more disciplined approach to changing and improving code.
+12. Coached teammates on test-driven development, unit testing, object-oriented development in C, clean coding and guided team to a more disciplined approach to changing and improving code.
 13. Drove the firmware projects -- requirements, design, implementation, and testing.
 14. Spread relevant and useful online technical seminars to the team in general and the dev team in particular.
 
@@ -28,7 +28,7 @@ In summary, I changed firmware development from quick and dirty to clean and hig
 
 https://www.openpath.com
 
-## Herb, Irvine, CA.	March 2020 to August 2020
+## iHerb, Irvine, CA.	March 2020 to August 2020
 
 Senior Firmware Engineer
 
